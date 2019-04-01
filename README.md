@@ -10,4 +10,5 @@ Allows a user to manage a list of Client(companies) and associated Contacts (per
 * When viewing a contact, the associated client is shown.
 * When viewing a client, the associated contact(s) are shown.
 * When editing a contact, the user is able to add or remove associated contacts.
+
 See ClientContacts_screenShots.docx
