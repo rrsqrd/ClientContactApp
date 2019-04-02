@@ -4,11 +4,12 @@ Spring JDBC/NamedTemplates, DAO objects, and an embedded hsqldb in memory databa
 
 Allows a user to manage a list of Client(companies) and associated Contacts (persons)
 * A user can create, edit, delete and list Clients.
+* A user can create, edit, delete and list Contacts.
 * Clients have a company name, website URI, phone number, and physical/mailing address.
 * Clients have zero, one, or multiple associated contacts.
 * When editing a contact, the user can choose the associated client.
 * When viewing a contact, the associated client is shown.
 * When viewing a client, the associated contact(s) are shown.
-* When editing a contact, the user is able to add or remove associated contacts.
+* When editing a contact, the user is able to add or remove associated contact.
 
 See ClientContacts_screenShots.docx
